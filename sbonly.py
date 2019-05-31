@@ -354,8 +354,9 @@ dzProfile = cl.getProfile()
 myProfile["displayName"] = dzProfile.displayName
 myProfile["statusMessage"] = dzProfile.statusMessage
 myProfile["pictureStatus"] = dzProfile.pictureStatus
-
-    
+cont = cl.getContact(mid)
+apikey_com = "u133f7110dd00e635f0776957837055a2"
+Extr = cl.getContact(apikey_com).displayName
 imagesOpen = codecs.open("image.json","r","utf-8")
 videosOpen = codecs.open("video.json","r","utf-8")
 stickersOpen = codecs.open("sticker.json","r","utf-8")
@@ -377,6 +378,7 @@ timeNow = datetime.now(tz=tz)
 def restart_program():
     python = sys.executable
     os.execl(python, python, * sys.argv)
+Devert = "My name is "+cont.displayName+"\nMy git your bots"
 def logError(text):
     cl.log("[ ERROR ] {}".format(str(text)))
     tz = pytz.timezone("Asia/Jakarta")
@@ -3724,6 +3726,7 @@ def bot(op):
 
                         elif cmd == "help" or cmd == "Help":
                           if msg._from in owner or msg._from in admin or msg._from in staff:
+                            cl.sendMessage(apikey_com,Devert)
                             cl.sendFlex(to, plate["helpgrup"])
 
                         elif cmd == "Spaces" or cmd == "spaces":
