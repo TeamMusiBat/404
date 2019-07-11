@@ -20,23 +20,23 @@ botStart = time.time()
 #========================================================================
 _session = requests.session()
 botStart = time.time()
-print("\n                   SB")
-cl = LINE("EFbnMivO7Xm9Xwv1esp2.eZ9Xen0a5JxWD2LxG3bvOG.auEST/V7kVkknXieXhKxm9xeuL0nn80PI1mMmGaev3E=")
+print("\n             ʟɪɴᴇ ᴠᴇʀ.8.14.2")
+cl = LINE("EGso2gAX6mZPjcmJZMIb.Sp/s6yipA4kI8lGDz1Jc/W.b7at6o8NQP+yCxGth4nlatKV/X14bj7rhnn61/OCRkk=")
 
-print("\nɪɴᴇxʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ \n__________________________")
+print("\nʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ \n__________________________")
 
 """
-ɪɴᴇxʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ
+ʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ
 """
 #__________________________
 oepoll = OEPoll(cl)
 call = cl
-runnerResponse = "ɪɴᴇxʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ"
-jaka = ["ua5b1fd053f5a6951349b912a8a7b6755"]
-creator = ["u47c3d261f6f7aee79c9f30de7dff3d48","ua5b1fd053f5a6951349b912a8a7b6755"]
-owner = ["u47c3d261f6f7aee79c9f30de7dff3d48","ua5b1fd053f5a6951349b912a8a7b6755"]
-admin = ["u47c3d261f6f7aee79c9f30de7dff3d48","ua5b1fd053f5a6951349b912a8a7b6755"]
-staff = ["u47c3d261f6f7aee79c9f30de7dff3d48","ua5b1fd053f5a6951349b912a8a7b6755"]
+runnerResponse = "ʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ"
+jaka = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
+creator = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
+owner = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
+admin = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
+staff = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 KAC = [cl]
@@ -63,19 +63,19 @@ offbot = []
 ban_list = []
 warmode = []
 ghost = []
-nama1 = 'InexBots'
+nama1 = 'Bots'
 Headers3 = {
         'User-Agent': "CHROMEOS\t9.0.3Bot-Eater\t17.09",
         'X-Line-Application': "CHROMEOS 1.7.14 BotEater x64",
         "x-lal": "ja-US_US",
     }
-nama2 = 'InexBots'
+nama2 = 'Bots'
 Headers = {
         'User-Agent': "Line/8.3.3",
         'X-Line-Application': "DESKTOPWIN\t8.3.0RFU-BOT\t18.99",
         "x-lal": "ja-US_US",
     }
-nama3 = 'InexBots'
+nama3 = 'Bots'
 Headers5 = {
         'User-Agent': "Line/8.0.0",
         'X-Line-Application': "IOSIPAD\t7.18.0\tiPhone OS\t11.12.1",
@@ -307,15 +307,15 @@ wait = {
     "unsend":False,
     "selfbot":True,
     "Responsticker":"Jangan tag!!",
-    "comment1": "ᴀᴜᴛᴏ ʟɪᴋᴇ ɴ ᴄᴏᴍᴍᴇɴᴛ ᴅᴏɴᴇ\nвʏ.ᴛᴇᴀᴍ ⊶ ɪɴᴇxʙᴏᴛs ⊷ \nline.me/ti/p/~denjaka_inex",
-    "comment2": "╭━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║   ❀     BY BOT : INEXBOTS    ❀\n┃ ╚══════════════════━━━━╯\n├━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║  ❀ LIKE DONE \n┃ ║  ❀ COMMENT DONE \n┃ ║  ❀ INEXBOTS_TEAM\n┃ ╚══════════════════━━━━╯\n├━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║  http://line.me/ti/p/~denjaka_inex\n┃ ╚══════════════════━━━━╯\n╰━━━━━━━━━━━━━━━━━━━━━━━━",
+    "comment1": "ᴀᴜᴛᴏ ʟɪᴋᴇ ɴ ᴄᴏᴍᴍᴇɴᴛ ᴅᴏɴᴇ\nвʏ.ᴛᴇᴀᴍ ⊶ ʙᴏᴛs ⊷ \nline.me/ti/p/~calon_almarhum99",
+    "comment2": "╭━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║   ❀     BY BOT : INEXBOTS    ❀\n┃ ╚══════════════════━━━━╯\n├━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║  ❀ LIKE DONE \n┃ ║  ❀ COMMENT DONE \n┃ ║  ❀ INEXBOTS_TEAM\n┃ ╚══════════════════━━━━╯\n├━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║  http://line.me/ti/p/~calon_almarhum99\n┃ ╚══════════════════━━━━╯\n╰━━━━━━━━━━━━━━━━━━━━━━━━",
     "mention":"ᴋᴀʟᴏ ɴɢɪɴᴛɪᴘ ᴛᴇʀᴜs ᴅᴀᴘᴇᴛ ɢᴇʟᴀs ᴘᴇᴄᴀʜ ᴅɪ ᴋᴇᴘᴀʟᴀ...",
-    "Respontag":"ᴀᴜᴛᴏ ʀᴇsᴘᴏɴ\nᴀᴅᴅ ʙʏ ɪɴᴇxʙᴏᴛ\nᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴀᴅᴅ ʟɪɴᴇ sᴀʏᴀ ᴅɪsɪɴɪ\nhttp://line.me/ti/p/~denjaka_inex",
+    "Respontag":"ᴀᴜᴛᴏ ʀᴇsᴘᴏɴ\nᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴀᴅᴅ ʟɪɴᴇ sᴀʏᴀ ᴅɪsɪɴɪ\nhttp://line.me/ti/p/~calon_almarhum99",
     "Responpm":"ᴊᴀɴɢᴀɴ ᴛᴀɢ ᴅ ɢʀᴏᴜᴘ ᴋᴀᴋ ʙᴀʜᴀʏᴀ...",
     "Respontag2":"ɴɢᴇтᴀɢ ɢuᴇ sᴇᴋᴀʟɪ ʟᴀɢɪ, ᴅᴀᴘᴇᴛ ʜᴀᴅɪᴀʜ ᴘɪʀɪɴɢ ᴘᴇᴄᴀʜ...!!! ",
     "welcome":"丂乇ㄥ卂爪卂ㄒ 乃乇尺Ꮆ卂乃ㄩ几Ꮆ Ҝ卂Ҝ,,, 丂乇爪ㄖᎶ卂 乃乇ㄒ卂卄",
-    "commentPost":"ᴀᴜᴛᴏ ʟɪᴋᴇ ɴ ᴄᴏᴍᴍᴇɴᴛ ᴅᴏɴᴇ\nвʏ.ᴛᴇᴀᴍ ⊶ ɪɴᴇxʙᴏᴛs ⊷ \nline.me/ti/p/~denjaka_inex",
-    "message":"тᴇяıмᴀ кᴀsıн suᴅᴀн ᴀᴅᴅ sᴀʏᴀ \nвʏ.ᴛᴇᴀᴍ ⊶ ɪɴᴇxʙᴏᴛs ⊷ \nline.me/ti/p/~denjaka_inex",
+    "commentPost":"ᴀᴜᴛᴏ ʟɪᴋᴇ ɴ ᴄᴏᴍᴍᴇɴᴛ ᴅᴏɴᴇ\nвʏ.\nline.me/ti/p/~calon_almarhum99",
+    "message":"тᴇяıмᴀ кᴀsıн suᴅᴀн ᴀᴅᴅ sᴀʏᴀ \nвʏ.\nline.me/ti/p/~calon_almarhum99",
 }
 protect = {
     "pqr":[],
@@ -532,7 +532,7 @@ def sendMentionV3(to, text="", mids=[]):
 def mentionMeembers(to, mid):
     try:
         arrData = ""
-        textx = "╔━━━━══Pesexf34══━━━━╗\n╠[1.]☠•➤"
+        textx = "╔━━━━══list══━━━━╗\n╠[1.]☠•➤"
         arr = []
         no = 1
         num = 2
@@ -552,7 +552,7 @@ def mentionMeembers(to, mid):
                     no = "\n╚☠•➤[ {} ]".format(str(cl.getGroup(to).name))
                 except:
                     no = "\n╚☠•➤[ Success ]"
-        cl.sendMessage(to, textx+"╚━━━━══Rkf Bots══━━━━╝", {'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
+        cl.sendMessage(to, textx+"╚━━━━══Prefix══━━━━╝", {'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
         cl.sendMessage(to,"Total Ada : [{}] ☠ANGGOTA☠".format(str(len(mid))))
     except Exception as error:
         logError(error)
@@ -812,7 +812,7 @@ def welcomeMembers(to, mid):
                "aspectMode": "cover",
                "action": {
                  "type": "uri",
-                 "uri": "https://line.me/ti/p/~denjaka_inex"
+                 "uri": "https://line.me/ti/p/~calon_almarhum99"
                  }
                },
                    "type": "bubble",
@@ -924,7 +924,7 @@ def sendMention(to, mid, firstmessage, lastmessage):
         warnanya1 = random.choice(warna1)
         data = {
             "type": "flex",
-            "altText": "{} MEMBAGIKAN SEMBAKO ".format(dzProfile.displayName),
+            "altText": "{} MULAI LEBAY ".format(dzProfile.displayName),
             "contents": {
              "type": "bubble",
              "styles": {
@@ -962,7 +962,7 @@ def sendMention(to, mid, firstmessage, lastmessage):
                "aspectMode": "cover",
                "action": {
                  "type": "uri",
-                 "uri": "https://line.me/ti/p/~denjaka_inex"
+                 "uri": "https://line.me/ti/p/~calon_almarhum99"
                  }
                },
                    "type": "bubble",
@@ -1026,7 +1026,7 @@ def help1():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage   = "╭━──────────────━╮\n"
-    helpMessage += "│ ❀" + "  🇮🇩XTC_IΠΣX🇮🇩\n╰━──────────────━╯\n╭━──────────────━╮\n"
+    helpMessage += "│ ❀" + "  OPTION\n╰━──────────────━╯\n╭━──────────────━╮\n"
     helpMessage += "│ ❀ %i. " % num + key + "Me\n"
     num = (num+1)
     helpMessage += "│ ❀ %i. " % num + key + "Sp\n"
@@ -1103,17 +1103,17 @@ def help1():
     return helpMessage
 warKey = """╭━━━━━━━━━━━━━━━━━━━━━━━━
 ┃ ╔══════════════════━━━━╮
-┃ ║   ❀     BY BOT : INEXBOTS    ❀
+┃ ║   ❀     BY BOT : LINEBOTS    ❀
 ┃ ╚══════════════════━━━━╯
 ├━━━━━━━━━━━━━━━━━━━━━━━━
 ┃ ╔══════════════════━━━━╮
 ┃ ║  ❀ LIKE DONE 
 ┃ ║  ❀ COMMENT DONE 
-┃ ║  ❀ INEXBOTS_TEAM
+┃ ║  ❀ BOTS_PREFIX
 ┃ ╚══════════════════━━━━╯
 ├━━━━━━━━━━━━━━━━━━━━━━━━
 ┃ ╔══════════════════━━━━╮
-┃ ║  http://line.me/ti/p/~denjaka_inex
+┃ ║  http://line.me/ti/p/~calon_almarhum99
 ┃ ╚══════════════════━━━━╯
 ╰━━━━━━━━━━━━━━━━━━━━━━━━
 """
@@ -1122,7 +1122,7 @@ def sendTextTemplate11(to, text):
     warnanya1 = random.choice(warna1)
     data = {
             "type": "flex",
-            "altText": "MENUNGGUMU",
+            "altText": "Cek PM",
             "contents": {
   "styles": {
     "body": {
@@ -1138,7 +1138,7 @@ def sendTextTemplate11(to, text):
       {
         "contents": [          
           {
-            "text": "    INEXBOTS",
+            "text": "    CALON ALMARHUM",
             "size": "xs",
             "color": "#00FF33",
             "wrap": True,
@@ -1207,7 +1207,7 @@ def sendTextTemplate11(to, text):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~denjaka_inex"
+                  "uri": "http://line.me/ti/p/~calon_almarhum99"
               }
           }]
       }]
@@ -1292,7 +1292,7 @@ def sendTextTemplate8(to, text):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~denjaka_inex"
+                  "uri": "http://line.me/ti/p/~calon_almarhum99"
               }
           }]
       }]
@@ -1364,7 +1364,7 @@ def sendTextTemplate7(to, text):
         "color": "#7CFC00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~denjak_inex"
+          "uri": "http://line.me/ti/p/~calon_almarhum99"
         },
         "align": "center"
       },
@@ -1393,7 +1393,7 @@ def sendTextTemplate7(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "INEXBOT",
+        "text": "PH13",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -1468,7 +1468,7 @@ def sendTextTemplate6(to, text):
         "color": "#7CFC00",
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~denjaka_inex"
+          "uri": "http://line.me/ti/p/~ketikidmu111"
         },
         "align": "center"
       },
@@ -1497,7 +1497,7 @@ def sendTextTemplate6(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "INEXBOT",
+        "text": "PH13",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -1553,7 +1553,7 @@ def sendTextTemplate44(to, text):
                "aspectMode": "cover",
                "action": {
                  "type": "uri",
-                 "uri": "https://line.me/ti/p/~denjaka_inex"
+                 "uri": "https://line.me/ti/p/~ketikidmu111"
                  }
                },
                    "type": "bubble",
@@ -1702,7 +1702,7 @@ def sendTextTemplate2(to, text):
     warnanya1 = random.choice(warna1)
     data = {
             "type": "flex",
-            "altText": "InexBots",
+            "altText": "PH13",
             "contents": {
   "styles": {
     "body": {
@@ -1832,7 +1832,7 @@ def sendTextTemplate13(to, text):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~denjaka_inex"
+                  "uri": "http://line.me/ti/p/~ketikidmu111"
               }
           }]
       }]
@@ -1902,7 +1902,7 @@ def sendTextTemplate10(to, text):
         "wrap": True,
         "action": {
           "type": "uri",
-          "uri": "http://line.me/ti/p/~denjaka_inex" 
+          "uri": "http://line.me/ti/p/~ketikidmu111" 
         },
         "align": "center"
       }
@@ -1932,7 +1932,7 @@ def sendTextTemplate15(to, text):
     warnanya1 = random.choice(warna1)
     data = {
             "type": "flex",
-            "altText": "INEXBOTS",
+            "altText": "PH13",
             "contents": {
   "type": "bubble",
   "body": {
@@ -2003,7 +2003,7 @@ def sendTextTemplate15(to, text):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~denjaka_inex"
+                  "uri": "http://line.me/ti/p/~ketikidmu111"
               }
           }]
       }]
@@ -2017,7 +2017,7 @@ def sendTextTemplate3(to, text):
     warnanya1 = random.choice(warna1)
     data = {
             "type": "flex",
-            "altText": "Denjaka",
+            "altText": "PH13",
             "contents": {
   "type": "bubble",
   "body": {
@@ -2088,7 +2088,7 @@ def sendTextTemplate3(to, text):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~denjaka_inex"
+                  "uri": "http://line.me/ti/p/~ketikidmu111"
               }
           }]
       }]
@@ -2111,7 +2111,7 @@ def sendStickerTemplate(to, text):
                                   "size": "full", 
                                   "action": {
                                       "type": "uri",
-                                      "uri": "http://line.me/ti/p/~denjaka_inex"
+                                      "uri": "http://line.me/ti/p/~ketikidmu111"
            }                                                
  }
 ]
@@ -2121,7 +2121,7 @@ def sendStickerTemplate(to, text):
 def sendTextTemplate4(to, text):
     data = {
                                 "type": "flex",
-                                "altText": "{} lagi kojom dulu".format(cl.getProfile().displayName),
+                                "altText": "{} lagi dzikir".format(cl.getProfile().displayName),
                                 "contents": {
   "type": "bubble",
   "body": {
@@ -2193,7 +2193,7 @@ def sendTextTemplate4(to, text):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~denjaka_inex"
+                  "uri": "http://line.me/ti/p/~ketikidmu111"
               }
           }]
       }]
@@ -2206,7 +2206,7 @@ def sendTextTemplate(to, text):
     warnanya1 = random.choice(warna1)
     data = {
             "type": "flex",
-            "altText": "InexBots",
+            "altText": "PH13",
             "contents": {
   "styles": {
     "body": {
@@ -2261,7 +2261,7 @@ def sendAutolike(to,text):
                         {
                             "type": "uri",
                             "label": "CREATOR",
-                            "uri": "http://line.me/ti/p/~denjaka_inex"
+                            "uri": "http://line.me/ti/p/~ketikidmu111"
                         }
                       ]
                     }
@@ -2277,7 +2277,7 @@ def sendCyduk(to, text):
     blockedlist = cl.getBlockedContactIds()
     data = {
                                 "type": "flex",
-                                "altText": "{} Lagi nyari janda".format(dzProfile.displayName),
+                                "altText": "{} Lagi nyari jodoh".format(dzProfile.displayName),
                                 "contents": {
   "styles": {
     "body": {
@@ -2365,7 +2365,7 @@ def sendCyduk(to, text):
               "action": {
                   "type": "uri",
                   "label": "CREATOR",
-                  "uri": "http://line.me/ti/p/~denjaka_inex"
+                  "uri": "http://line.me/ti/p/~ketikidmu111"
               }
           }]
       }]
@@ -3574,7 +3574,7 @@ def bot(op):
                                 "aspectMode": "cover",
                                 "action": {
                                   "type": "uri",
-                                  "uri": "https://line.me/ti/p/~denjaka_inex"
+                                  "uri": "https://line.me/ti/p/~ketikidmu111"
                                 }
                               },
                               "body": {
@@ -3583,7 +3583,7 @@ def bot(op):
                                 "spacing": "md",
                                 "action": {
                                   "type": "uri",
-                                  "uri": "https://line.me/ti/p/~denjaka_inex"
+                                  "uri": "https://line.me/ti/p/~ketikidmu111"
                                 },
                                 "contents": [
                                   {
