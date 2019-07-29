@@ -21,7 +21,7 @@ botStart = time.time()
 _session = requests.session()
 botStart = time.time()
 print("\n             ʟɪɴᴇ ᴠᴇʀ.8.14.2")
-cl = LINE("asifjamali83@gmail.com","atifkhan83")
+cl = LINE()
 
 print("\nʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ \n__________________________")
 
