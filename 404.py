@@ -32,11 +32,11 @@ print("\nʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ \n____________
 oepoll = OEPoll(cl)
 call = cl
 runnerResponse = "ʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ"
-jaka = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
-creator = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
-owner = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
-admin = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
-staff = ["ub0ff92e9820f6b82a2f0b81d6758c2fb"]
+jaka = ["u017c2c8c7282f582d5d5e40ed2094f66"]
+creator = ["u017c2c8c7282f582d5d5e40ed2094f66"]
+owner = ["u017c2c8c7282f582d5d5e40ed2094f66"]
+admin = ["u017c2c8c7282f582d5d5e40ed2094f66"]
+staff = ["u017c2c8c7282f582d5d5e40ed2094f66"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 KAC = [cl]
