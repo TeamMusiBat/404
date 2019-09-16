@@ -32,11 +32,11 @@ print("\nʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ \n____________
 oepoll = OEPoll(cl)
 call = cl
 runnerResponse = "ʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ"
-jaka = ["u017c2c8c7282f582d5d5e40ed2094f66"]
-creator = ["u017c2c8c7282f582d5d5e40ed2094f66"]
-owner = ["u017c2c8c7282f582d5d5e40ed2094f66"]
-admin = ["u017c2c8c7282f582d5d5e40ed2094f66"]
-staff = ["u017c2c8c7282f582d5d5e40ed2094f66"]
+jaka = ["ube7b228a4f2bd2d3cd4442daf9519308"]
+creator = ["ube7b228a4f2bd2d3cd4442daf9519308"]
+owner = ["ube7b228a4f2bd2d3cd4442daf9519308"]
+admin = ["ube7b228a4f2bd2d3cd4442daf9519308"]
+staff = ["ube7b228a4f2bd2d3cd4442daf9519308"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 KAC = [cl]
@@ -307,15 +307,15 @@ wait = {
     "unsend":False,
     "selfbot":True,
     "Responsticker":"Jangan tag!!",
-    "comment1": "ᴀᴜᴛᴏ ʟɪᴋᴇ ɴ ᴄᴏᴍᴍᴇɴᴛ ᴅᴏɴᴇ\nвʏ.ᴛᴇᴀᴍ ⊶ ʙᴏᴛs ⊷ \nline.me/ti/p/~calon_almarhum99",
+    "comment1": "ᴀᴜᴛᴏ ʟɪᴋᴇ ɴ ᴄᴏᴍᴍᴇɴᴛ ᴅᴏɴᴇ\nвʏ.ᴛᴇᴀᴍ ⊶ ʙᴏᴛs ⊷ \nline.me/ti/p/~shahzain786",
     "comment2": "╭━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║   ❀     BY BOT : ŚhÀH•ŹÀ!η    ❀\n┃ ╚══════════════════━━━━╯\n├━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║  ❀ LIKE DONE \n┃ ║  ❀ COMMENT DONE \n┃ ║  ❀ ŚhÀH•ŹÀ!η_TEAM\n┃ ╚══════════════════━━━━╯\n├━━━━━━━━━━━━━━━━━━━━━━━━\n┃ ╔══════════════════━━━━╮\n┃ ║  https://line.me/ti/p/4LKXrNJ_6A\n┃ ╚══════════════════━━━━╯\n╰━━━━━━━━━━━━━━━━━━━━━━━━",
     "mention":"ᴋᴀʟᴏ ɴɢɪɴᴛɪᴘ ᴛᴇʀᴜs ᴅᴀᴘᴇᴛ ɢᴇʟᴀs ᴘᴇᴄᴀʜ ᴅɪ ᴋᴇᴘᴀʟᴀ...",
     "Respontag":"ᴀᴜᴛᴏ ʀᴇsᴘᴏɴ\nᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴀᴅᴅ ʟɪɴᴇ sᴀʏᴀ ᴅɪsɪɴɪ\nhttps://line.me/ti/p/4LKXrNJ_6A",
     "Responpm":"ᴊᴀɴɢᴀɴ ᴛᴀɢ ᴅ ɢʀᴏᴜᴘ ᴋᴀᴋ ʙᴀʜᴀʏᴀ...",
     "Respontag2":"ɴɢᴇтᴀɢ ɢuᴇ sᴇᴋᴀʟɪ ʟᴀɢɪ, ᴅᴀᴘᴇᴛ ʜᴀᴅɪᴀʜ ᴘɪʀɪɴɢ ᴘᴇᴄᴀʜ...!!! ",
     "welcome":"丂乇ㄥ卂爪卂ㄒ 乃乇尺Ꮆ卂乃ㄩ几Ꮆ Ҝ卂Ҝ,,, 丂乇爪ㄖᎶ卂 乃乇ㄒ卂卄",
-    "commentPost":"ᴀᴜᴛᴏ ʟɪᴋᴇ ɴ ᴄᴏᴍᴍᴇɴᴛ ᴅᴏɴᴇ\nвʏ.\nline.me/ti/p/~calon_almarhum99",
-    "message":"тᴇяıмᴀ кᴀsıн suᴅᴀн ᴀᴅᴅ sᴀʏᴀ \nвʏ.\nline.me/ti/p/~calon_almarhum99",
+    "commentPost":"ᴀᴜᴛᴏ ʟɪᴋᴇ ɴ ᴄᴏᴍᴍᴇɴᴛ ᴅᴏɴᴇ\nвʏ.\nline.me/ti/p/~shahzain786",
+    "message":"тᴇяıмᴀ кᴀsıн suᴅᴀн ᴀᴅᴅ sᴀʏᴀ \nвʏ.\nline.me/ti/p/~shahzain786",
 }
 protect = {
     "pqr":[],
@@ -812,7 +812,7 @@ def welcomeMembers(to, mid):
                "aspectMode": "cover",
                "action": {
                  "type": "uri",
-                 "uri": "https://line.me/ti/p/~calon_almarhum99"
+                 "uri": "https://line.me/ti/p/~shahzain786"
                  }
                },
                    "type": "bubble",
@@ -962,7 +962,7 @@ def sendMention(to, mid, firstmessage, lastmessage):
                "aspectMode": "cover",
                "action": {
                  "type": "uri",
-                 "uri": "https://line.me/ti/p/~calon_almarhum99"
+                 "uri": "https://line.me/ti/p/~shahzain786"
                  }
                },
                    "type": "bubble",
